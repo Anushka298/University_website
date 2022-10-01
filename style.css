@@ -1,6 +1,6 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 10;
+    padding: 10;
 font-family: 'Poppins', sans-serif;
 }
 
@@ -21,8 +21,8 @@ nav{
 }
 
 nav img{
-    width: 125px;
-    height: 117px;
+    width: 200px;
+    height: 110px;
 }
 
 .nav-links{
@@ -59,7 +59,7 @@ nav img{
 }
 
 .text-box{
-    color: white;
+    color: red;
     width: 90%;
     top: 50%;
     position: absolute;
@@ -81,7 +81,7 @@ text-box p{
 .hero-btn{
     display: inline-block;
     text-decoration: none;
-    border: 1px solid white;
+    border: 1px solid blue;
     color: white;
     font-size: 13px;
     padding: 12px 34px;
